@@ -8,4 +8,4 @@ Programs included:
 2. Task 2 - (Sudoku Solver)
 3. Task 3 - (Banking System Code)
 
-Tools used: Dev-C++ and GitHub
+Tools used: Dev C++ and GitHub
